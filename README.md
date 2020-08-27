@@ -1,6 +1,6 @@
 # Hi, I'm Suhan 🖖🏻 
 
-I'm a right-brained technologist with a passion for coding, product, UX, and going on fun adventures with my wife and son.
+I'm a right-brained technologist with a passion for coding, product, UX, and adventuring with my wife and son. 
 
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='right'>
 
