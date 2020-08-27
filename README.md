@@ -6,9 +6,9 @@ I'm a right-brained technologist with a passion for coding, product, and UX. Whe
 
 👷🏻‍♂️  I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
 🌱  I'm currently learning/experimenting with [Webpack 5 Module Federation](https://webpack.js.org/concepts/module-federation/).  
-💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, UX/UI, web performance, Sci-Fi, Denzel Washington, millenial nostalgia, etc
+💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, UX/UI, web performance, etc
 
-### Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!
+##### Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!
 
 <!--
 **suhanw/suhanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
