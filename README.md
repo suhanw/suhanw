@@ -4,9 +4,9 @@
 
 I'm a right-brained technologist with a passion for coding, product, and UX. When I'm not coding, I go on fun adventures with my wife and son.
 
-I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your cleaning essentials, or other grocery needs (in bulk!).
+I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your cleaning essentials or other grocery needs (in bulk!).
 
-Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!
+Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com).
 
 <!--
 **suhanw/suhanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
