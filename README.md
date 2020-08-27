@@ -1,6 +1,8 @@
-### Hi, I'm Suhan 👋
+## Hi, I'm Suhan 🖖🏻
 
 I'm a right-brained technologist with a passion for coding, product, and UX. When I'm not coding, I go on fun adventures with my wife and son. 
+
+![Hero Banner](assets/bg.jpeg)
 
 <!--
 **suhanw/suhanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
