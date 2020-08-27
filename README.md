@@ -4,7 +4,7 @@
 
 I'm a right-brained technologist with a passion for coding, product, and UX. When I'm not coding, I go on fun adventures with my wife and son.
 
-<img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='left'>
+<img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='120' align='left'>
 
 🔭 I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
 🌱 I'm currently learning/experimenting with [Webpack 5 Module Federation](https://webpack.js.org/concepts/module-federation/).  
