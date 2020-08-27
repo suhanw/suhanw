@@ -1,7 +1,5 @@
 # Hi, I'm Suhan 🖖🏻 
 
-![Hero Banner](https://raw.githubusercontent.com/suhanw/suhanw/master/assets/bg.jpeg)
-
 I'm a right-brained technologist with a passion for coding, product, and UX. When I'm not coding, I go on fun adventures with my wife and son.
 
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='120' align='left'>
