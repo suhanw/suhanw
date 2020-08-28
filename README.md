@@ -1,11 +1,11 @@
 # Hi, I'm Suhan 🖖🏻 
 
-I'm a right-brained technologist with a passion for coding, product, UX, and adventuring with my wife and son. 
+I'm a right-brained technologist with a passion for coding, product, UX, and adventures with my family. 
 
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='right'>
 
 👷🏻‍♂️  I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
-🌱  I'm currently learning/experimenting with [Webpack 5 Module Federation](https://webpack.js.org/concepts/module-federation/).  
+🌱  I'm currently learning about and experimenting with [Webpack 5 Module Federation](https://webpack.js.org/concepts/module-federation/).  
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, UX/UI, web performance, movies, etc.  
 📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!
 
