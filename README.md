@@ -11,8 +11,8 @@ I'm a right-brained techie passionate about coding, product, UX, and fun adventu
 
 ## Today I learned
 <a target="_blank" href="https://medium.com/javascript-in-plain-english/traditional-versus-arrow-functions-in-javascript-classes-35f958b1a492"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/0" alt="Traditional versus Arrow functions in JavaScript Classes">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/1" alt="Missing cookie in HTTP request when using Fetch API">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/2" alt="A method destructured from an object loses its original context">
+<a target="_blank" href="https://suhanwijaya.medium.com/missing-cookie-in-http-request-when-using-fetch-api-fc0199c3dc3c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/1" alt="Missing cookie in HTTP request when using Fetch API">
+<a target="_blank" href="https://suhanwijaya.medium.com/a-method-destructured-from-an-object-loses-its-original-context-21e73cf1451f"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/2" alt="A method destructured from an object loses its original context">
 
 
 <!--
