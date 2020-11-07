@@ -11,6 +11,8 @@ I'm a right-brained techie passionate about coding, product, UX, and fun adventu
 
 ## Today I learned
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/0" alt="Traditional versus Arrow functions in JavaScript Classes">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/1" alt="Missing cookie in HTTP request when using Fetch API">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/2" alt="A method destructured from an object loses its original context">
 
 
 <!--
