@@ -9,6 +9,7 @@ I'm a right-brained techie passionate about coding, product, UX, and fun adventu
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, movies, etc.  
 📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!  
 
+## #todayilearned
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@suhanwijaya/0" alt="Traditional versus Arrow functions in JavaScript Classes">
 
 
