@@ -1,4 +1,4 @@
-# Hi, I'm Suhan 🖖🏻 
+# Hello world, I'm Suhan 🖖🏻 
 
 I'm a right-brained techie passionate about coding, product, UX, and fun adventures with my family. 
 
