@@ -1,7 +1,5 @@
 # Hello world 🖖🏻 
 
-I'm a right-brained techie passionate about coding, product, UX, and fun adventures with my family. 
-
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='right'>
 
 👷  I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
