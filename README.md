@@ -3,7 +3,7 @@
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='right'>
 
 👷  I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
-🌱  I'm currently learning about and experimenting with React Native.  
+🌱  I'm currently learning about and experimenting with Webpack Module Federation.  
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, movies, etc.  
 🧠  Check out my writings on [Medium](https://suhanwijaya.medium.com/).  
 📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!  
