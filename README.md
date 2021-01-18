@@ -6,7 +6,7 @@
 🌱  I'm currently learning about and experimenting with webpack 5 Module Federation.  
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, movies, etc.  
 🧠  Check out my writings on [Medium](https://suhanwijaya.medium.com/).  
-📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [email](mailto:suhanw@gmail.com)!  
+📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [Twitter](https://twitter.com/suhanw) or [email](mailto:suhanw@gmail.com)!  
 
 
 <!--
