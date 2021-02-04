@@ -5,7 +5,7 @@
 👷  I work at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
 🌱  I'm currently learning about and experimenting with webpack 5 Module Federation.  
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, movies, etc.  
-🧠  Check out my writings on [Medium](https://suhanwijaya.medium.com/).  
+🧠  Check out my writings on [www.suhanwijaya.com](https://www.suhanwijaya.com/).  
 📫  Hit me up on [LinkedIn](https://www.linkedin.com/in/suhanwijaya/) or [Twitter](https://twitter.com/suhanw) or [email](mailto:suhanw@gmail.com)!  
 
 
