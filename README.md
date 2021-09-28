@@ -2,7 +2,7 @@
 
 <img src='https://media.giphy.com/media/R6xi8dXsRhIjK/giphy.gif' width='150' align='right'>
 
-👷  Working at [Boxed.com](https://www.boxed.com) as the Growth Tech Lead. Check us out for your grocery needs (in bulk!).  
+👷  Senior Software Engineer at [Boxed.com](https://www.boxed.com). Check us out for your grocery needs (in bulk!).  
 🏗  Building apps with JavaScript, React, Node.js, GraphQL, GCP, AWS.   
 🌱  Currently learning about webpack 5 Module Federation, Micro Frontends, and GCP CI/CD platform.  
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, movies, etc.  
