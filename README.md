@@ -4,7 +4,7 @@
 
 👷  Senior Software Engineer at [Boxed.com](https://www.boxed.com). Check us out for your grocery needs (in bulk!).  
 🏗  Building apps with JavaScript, React, Node.js, GraphQL, GCP, AWS.   
-🌱  Currently learning about webpack 5 Module Federation, Micro Frontends, and GCP CI/CD.
+🌱  Currently learning about webpack 5 Module Federation, Micro Frontends, and GCP CI/CD.   
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, etc.  
 🧠  Check out my digital garden on [www.suhanwijaya.com](https://www.suhanwijaya.com/).  
 
