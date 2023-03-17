@@ -1,7 +1,7 @@
 # Hello world 🖖🏻 
 
-👷  Senior Software Engineer at [Spresso.com](https://www.spresso.com) and [Boxed.com](https://www.boxed.com/business).   
-🏗  Building apps with JavaScript, React, Node.js, GraphQL, Nx, GCP.   
+👷  Senior Software Engineer at [Spresso.com](https://www.spresso.com).   
+🏗  Building apps with Nx, JavaScript, TypeScript, React, GraphQL, Node.js, GCP.   
 🌱  Currently learning about webpack 5 Module Federation, Jenkins, GitHub Actions, Pulumi.   
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, etc.  
 🧠  Check out my digital garden on [www.suhanwijaya.com](https://www.suhanwijaya.com/).  
