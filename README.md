@@ -1,6 +1,6 @@
 # Hello world 🖖🏻 
 
-👷  Staff Software Engineer at [Spresso.com](https://www.spresso.com).   
+👷  Senior Software Engineer at [Datadog](https://www.datadoghq.com).   
 🏗  Building apps with Nx, JavaScript, TypeScript, React, GraphQL, Node.js, GCP.   
 🌱  Currently learning about webpack 5 Module Federation, Jenkins, GitHub Actions, Pulumi.   
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, etc.  
