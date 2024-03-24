@@ -1,7 +1,7 @@
 # Hello world 🖖🏻 
 
 👷  Senior Software Engineer at [Datadog](https://www.datadoghq.com).   
-🏗  Building apps with Nx, JavaScript, TypeScript, React, GraphQL, Node.js, GCP.   
+🏗  Building apps with JavaScript, TypeScript, React, Node.js, PostgreSQL, AWS.   
 🌱  Currently learning about webpack 5 Module Federation, Jenkins, GitHub Actions, Pulumi.   
 💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, etc.  
 🧠  Check out my digital garden on [www.suhanwijaya.com](https://www.suhanwijaya.com/).  
