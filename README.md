@@ -2,8 +2,7 @@
 
 👷  Senior Software Engineer at [Datadog](https://www.datadoghq.com).   
 🏗  Building apps with JavaScript, TypeScript, React, Node.js, PostgreSQL, AWS.   
-🌱  Currently learning about webpack 5 Module Federation, Jenkins, GitHub Actions, Pulumi.   
-💬  Happy to chat JavaScript, React, Apollo/GraphQL, Hapi, CSS, UX/UI, web performance, etc.  
+🌱  Currently learning about AWS resources, Kubernetes, Go, Bazel, Terraform.   
 🧠  Check out my digital garden on [www.suhanwijaya.com](https://www.suhanwijaya.com/).  
 
 
