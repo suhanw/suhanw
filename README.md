@@ -2,9 +2,9 @@
 
 👷  Senior Software Engineer   
 🏗  Building apps with JavaScript, TypeScript, React, Node.js, PostgreSQL, MongoDB, AWS.   
-<!-- 🌱  Currently learning about AWS resources, Kubernetes, Go, Bazel, Terraform.   -->
 🧠  Check out my digital garden on [suhanwijaya.com](https://www.suhanwijaya.com/).  
 
+<!-- 🌱  Currently learning about AWS resources, Kubernetes, Go, Bazel, Terraform.   -->
 
 <!--
 **suhanw/suhanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
